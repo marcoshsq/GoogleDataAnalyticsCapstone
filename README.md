@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/Artificial_Intelligence_Projects">
-    <img src="https://icon-library.com/images/programming-icon-png/programming-icon-png-6.jpg" alt="Developer Roadmap" width="120" height="120">
+    <img src="https://www.pngkey.com/png/full/96-967444_download-the-presentation-artificial-intelligence-ai-icon-png.png" alt="Developer Roadmap" width="120" height="120">
   </a>
 </p>
   <h2 align="center">Artificial Intelligence Projects Display</h2>
@@ -17,7 +17,9 @@
 
 # About:
 
-I like to keep things organized, so I created this repository to serve as a hub for all my AI (Machine Learning, Deep Learning, Computer Vision) related projects.
+I like to keep things organized, so I created this repository to serve as a hub for all my AI (Machine Learning, Deep Learning, Computer Vision) related projects. This is a way for me to find these projects in an easier way in a centralized location.
+
+Here are the links to the original repositories where the codes of these projects are stored.
 
 ---
 
