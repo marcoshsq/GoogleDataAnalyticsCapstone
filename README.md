@@ -23,9 +23,7 @@ Here are the links to the original repositories where the codes of these project
 
 ---
 
-### [Python plays Flappy Bird]():
-
-In this project, I built a clone of the flappy bird game with Python, using the Pygame, OS and random libraries. Then, used a NEAT algorithm, to teach the "computer" to beat the game.
+- [Python plays Flappy Bird]() - In this project, I built a clone of the flappy bird game with Python, using the Pygame, OS and random libraries. Then, used a NEAT algorithm, to teach the "computer" to beat the game.
 
 ---
 
