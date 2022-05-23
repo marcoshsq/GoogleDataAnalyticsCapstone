@@ -47,13 +47,23 @@ So, out of personal interest, and because I believe it will be of great value to
 
 <h2>Track 01:</h2>
 
+To add details...
+
 <h3>Case Study 01: How does a bike-share navigate speedy success?</h3>
+
+Work in progress...
 
 <h3>Case Study 02: How can a wellness company play it smart?</h3>
 
+Work in progress...
+
 <h2>Track 02:</h2>
 
+To add details...
+
 <h3>Personal Case Study: Work in progress...</h3>
+
+Work in progress...
 
 <h2>Final considerations:</h2>
 
