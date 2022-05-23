@@ -11,8 +11,11 @@
 
 - [About]()
 - [Track 01]()
+  - [Case Study 01]()
+  - [Case Study 02]()
 - [Track 02]()
-- [Conclusion]()
+  - [Personal Case Study]() 
+- [Final Considerations]()
 
 <h2>About:</h2>
 
@@ -52,3 +55,5 @@ So, out of personal interest, and because I believe it will be of great value to
 <h2>Track 02:</h2>
 
 <h3>Personal Case Study: Work in progress...</h3>
+
+<h2>Final considerations:</h2>
