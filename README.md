@@ -3,10 +3,11 @@
     <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Grow%20with%20Google.jpg" alt="DataViz" width="" height="">
   </a>
 </p>  
-  <h2 align="center">Marcos Henrique - Portfolio</h2>
+  <h2 align="center">Google Data Analytics: Capstone Project</h2>
 </div>
 <br>
-## About:
+
+<h2>About</h2>
 
 
 
