@@ -9,6 +9,8 @@
 
 <h2>About</h2>
 
+This repository contains the capstone projects developed during the final course of the [Google Data Analytics Professional Certificate](https://grow.google/certificates/data-analytics/#?modal_active=none)
+
 
 
 ---
