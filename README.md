@@ -13,15 +13,22 @@ This repository contains the capstone projects developed during the final course
 
 The objective of this capstone project is to apply the knowledge developed during the course:
 
-* Going through the Ask, Prepare, Process, Analyze, and Share phases of the data analysis process;
-* Stating a business task clearly;
-* Importing data from a real dataset;
-* Documenting any data cleaning that you perform on the dataset;
-* Analyzing the data;
-* Creating data visualizations from your analysis;
-* Summarizing key findings from your analysis;
-* Documenting your conclusions and recommendations;
-* Creating and publishing your case study.
+    * Going through the Ask, Prepare, Process, Analyze, and Share phases of the data analysis process;
+    * Stating a business task clearly;
+    * Importing data from a real dataset;
+    * Documenting any data cleaning that you perform on the dataset;
+    * Analyzing the data;
+    * Creating data visualizations from your analysis;
+    * Summarizing key findings from your analysis;
+    * Documenting your conclusions and recommendations;
+    * Creating and publishing your case study.
+
+For this, we're offered two tracks:
+
+| Track 01 | Track 02 |
+| :-- | :-- |
+| Working with existing questions and datasets. | Choosing your own questions and dataset |
+| Demonstrate job skills for future interviews using a given dataset for analysis. | Create a more flexible portfolio piece about a personal interest that you have. |
 
 ---
 
