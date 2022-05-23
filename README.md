@@ -57,3 +57,7 @@ So, out of personal interest, and because I believe it will be of great value to
 <h3>Personal Case Study: Work in progress...</h3>
 
 <h2>Final considerations:</h2>
+
+<div align="right">
+  [to the top](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#google-data-analytics-capstone-project)
+</div>
