@@ -5,7 +5,6 @@
 </p>  
   <h2 align="center">Google Data Analytics: Capstone Project</h2>
 </div>
-<br>
 
 <h2>Table of Contents:</h2>
 
