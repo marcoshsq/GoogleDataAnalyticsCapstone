@@ -45,9 +45,13 @@ So, out of personal interest, and because I believe it will be of great value to
 
 ##
 
-<h2>Track 01:</h2>
+<h2>Track 01 details:</h2>
 
-To add details...
+***"The first track involves a case study similar to what you might be asked for in a job interview. You will be given a business task, dataset, and list of specific deliverables that you must present to stakeholders. The first track will help you to create a case study that you could include in your portfolio to demonstrate job skills for future interviews. You can choose from between two cases. Once you decide which case study packet to use, you will read the details, complete the analysis, and create your finished case study.*** 
+
+***If this track interests you, explore the case study options and decide which one you want to perform. The case study packets available for download have everything that you need to complete your case study. Then, you will be ready to upload and share your case study with potential employers."***
+
+##
 
 <h3>Case Study 01: How does a bike-share navigate speedy success?</h3>
 
@@ -62,6 +66,8 @@ Our goal is to answer three questions:
     3. How can Cyclistic use digital media to influence casual riders to become members?
 
 Work in progress...
+
+##
 
 <h3>Case Study 02: How can a wellness company play it smart?</h3>
 
