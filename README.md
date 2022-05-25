@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/marcoshsq/Marcos_Henrique_Portfolio">
+  <a href="[https://github.com/marcoshsq/Marcos_Henrique_Portfolio](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone)">
     <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Grow%20with%20Google.jpg" alt="DataViz" width="" height="">
   </a>
 </p>  
@@ -53,7 +53,13 @@ So, out of personal interest, and because I believe it will be of great value to
 
 ##
 
-<h3>Case Study 01: How does a bike-share navigate speedy success?</h3>
+<p align="center">
+  <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Bikes.png">
+    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Grow%20with%20Google.jpg" alt="DataViz" width="" height="">
+  </a>
+</p>  
+  <h3>Case Study 01: How does a bike-share navigate speedy success?</h3>
+</div>
 
 ***Scenario:***
 
@@ -69,7 +75,13 @@ Work in progress...
 
 ##
 
-<h3>Case Study 02: How can a wellness company play it smart?</h3>
+<p align="center">
+  <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Bikes.png">
+    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Grow%20with%20Google.jpg" alt="DataViz" width="" height="">
+  </a>
+</p>  
+  <h3>Case Study 02: How can a wellness company play it smart?</h3>
+</div>
 
 ***Scenario***
 
