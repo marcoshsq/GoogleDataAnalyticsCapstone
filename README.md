@@ -55,7 +55,7 @@ So, out of personal interest, and because I believe it will be of great value to
 
 <p align="center">
   <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone">
-    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Bikes.png" alt="DataViz" width="" height="">
+    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Bikes.png" alt="DataViz" width="100" height="100">
   </a>
 </p>  
   <h3>Case Study 01: How does a bike-share navigate speedy success?</h3>
