@@ -77,7 +77,7 @@ Work in progress...
 
 <p align="center">
   <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone">
-    <img src="" alt="DataViz" width="250" height="250">
+    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/bellabeat.png" alt="DataViz" width="250" height="250">
   </a>
 </p>  
   <h3>Case Study 02: How can a wellness company play it smart?</h3>
@@ -115,9 +115,13 @@ For this one we have Five questions will guide your case study:
     4. Where will you obtain that data?
     5. Who is your audience, and what materials will help you present to them eectively?
 
-
-
-<h3>Personal Case Study:</h3>
+<p align="center">
+  <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone">
+    <img src="" alt="meme" width="" height="">
+  </a>
+</p>  
+  <h3>Personal Case Study:</h3>
+</div>
 
 Work in progress...
 
