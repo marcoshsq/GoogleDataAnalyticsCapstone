@@ -9,10 +9,10 @@
 <h2>Table of Contents:</h2>
 
 - [About](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#about)
-- [Track 01](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#track-01)
+- [Track 01](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#track-01-details)
   - [Case Study 01](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#case-study-01-how-does-a-bike-share-navigate-speedy-success)
   - [Case Study 02](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#case-study-02-how-can-a-wellness-company-play-it-smart)
-- [Track 02](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#track-02)
+- [Track 02](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#track-02-details)
   - [Personal Case Study](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#personal-case-study-work-in-progress) 
 - [Final Considerations](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#final-considerations)
 
@@ -43,7 +43,7 @@ It is not necessary to undertake any of the projects as there is no peer review 
 
 So, out of personal interest, and because I believe it will be of great value to my professional development, I will carry out the two projects offered in track 01, and also a personal project for track 02.
 
-##
+---
 
 <h2>Track 01 details:</h2>
 
@@ -83,9 +83,11 @@ Our goal is to answer three questions:
 
 Work in progress...
 
-<h2>Track 02:</h2>
+---
 
-To add details...
+<h2>Track 02 details:</h2>
+
+***""***
 
 <h3>Personal Case Study: Work in progress...</h3>
 
