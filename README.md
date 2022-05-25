@@ -47,9 +47,9 @@ So, out of personal interest, and because I believe it will be of great value to
 
 <h2>Track 01 details:</h2>
 
-***"The first track involves a case study similar to what you might be asked for in a job interview. You will be given a business task, dataset, and list of specific deliverables that you must present to stakeholders. The first track will help you to create a case study that you could include in your portfolio to demonstrate job skills for future interviews. You can choose from between two cases. Once you decide which case study packet to use, you will read the details, complete the analysis, and create your finished case study.*** 
+***"The first track involves a case study similar to what you might be asked for in a job interview. You will be given a business task, dataset, and list of specific deliverables that you must present to stakeholders. The first track will help you to create a case study that you could include in your portfolio to demonstrate job skills for future interviews. You can choose from between two cases. Once you decide which case study packet to use, you will read the details, complete the analysis, and create your finished case study."*** 
 
-***If this track interests you, explore the case study options and decide which one you want to perform. The case study packets available for download have everything that you need to complete your case study. Then, you will be ready to upload and share your case study with potential employers."***
+***"If this track interests you, explore the case study options and decide which one you want to perform. The case study packets available for download have everything that you need to complete your case study. Then, you will be ready to upload and share your case study with potential employers."***
 
 ##
 
@@ -87,11 +87,9 @@ Work in progress...
 
 <h2>Track 02 details:</h2>
 
-***"Choose your own adventure: ***
+***"The second track involves finding a public dataset that focuses on something that interests you. You could choose any topic about which you want to analyze data -- public bike use in your neighborhood, local wildlife migration, video game console sales, or anything else you are passionate about. You can follow the steps in the case study packet to guide you through this process. The case study packet provides public dataset recommendations, example business tasks, and steps to complete your analysis. This track is the most flexible, but that flexibility means that this track can be more challenging. You will have to use everything that you have learned so far to help you to complete this case study.***
 
-***The second track involves finding a public dataset that focuses on something that interests you. You could choose any topic about which you want to analyze data -- public bike use in your neighborhood, local wildlife migration, video game console sales, or anything else you are passionate about. You can follow the steps in the case study packet to guide you through this process. The case study packet provides public dataset recommendations, example business tasks, and steps to complete your analysis. This track is the most flexible, but that flexibility means that this track can be more challenging. You will have to use everything that you have learned so far to help you to complete this case study. ***
-
-***If this track interests you, explore the case study packet to learn more details, find the public dataset that you want to use, and complete your analysis. Then, you will be ready to upload and share your completed case study." ***
+***"If this track interests you, explore the case study packet to learn more details, find the public dataset that you want to use, and complete your analysis. Then, you will be ready to upload and share your completed case study."***
 
 ***Scenario***
 
