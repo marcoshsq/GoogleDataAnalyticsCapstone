@@ -75,6 +75,12 @@ Our goal is to answer three questions:
 
 [Case Study 01]()
 
+<div align="right">
+  
+  [to the top](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#google-data-analytics-capstone-project)
+  
+</div>
+
 ##
 
 <p align="center">
@@ -99,6 +105,12 @@ Our goal is to answer three questions:
 
 [Case Study 02]()
 
+<div align="right">
+  
+  [to the top](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#google-data-analytics-capstone-project)
+  
+</div>
+
 ---
 
 <h2>Track 02 details:</h2>
@@ -117,7 +129,7 @@ For this one we have Five questions will guide your case study:
     2. What are the key factors involved in the business task you are investigating?
     3. What type of data will be appropriate for your analysis?
     4. Where will you obtain that data?
-    5. Who is your audience, and what materials will help you present to them eectively?
+    5. Who is your audience, and what materials will help you present to them efectively?
 
 <p align="center">
   <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone">
@@ -131,6 +143,11 @@ For this one we have Five questions will guide your case study:
 
 [Case Study 03]()
 
+<div align="right">
+  
+  [to the top](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#google-data-analytics-capstone-project)
+  
+</div>
 
 ---
 
