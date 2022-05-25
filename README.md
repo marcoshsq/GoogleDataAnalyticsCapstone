@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone">
-    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Grow%20with%20Google.jpg" alt="DataViz" width="640" height="360">
+    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Grow%20with%20Google.jpg" alt="DataViz" width="" height="">
   </a>
 </p>  
   <h2 align="center">Google Data Analytics: Capstone Project</h2>
@@ -55,7 +55,7 @@ So, out of personal interest, and because I believe it will be of great value to
 
 <p align="center">
   <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone">
-    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Bikes.png" alt="DataViz" width="100" height="100">
+    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Bikes.png" alt="bike" width="250" height="250">
   </a>
 </p>  
   <h3>Case Study 01: How does a bike-share navigate speedy success?</h3>
@@ -77,7 +77,7 @@ Work in progress...
 
 <p align="center">
   <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone">
-    <img src="" alt="DataViz" width="" height="">
+    <img src="" alt="DataViz" width="250" height="250">
   </a>
 </p>  
   <h3>Case Study 02: How can a wellness company play it smart?</h3>
