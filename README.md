@@ -71,7 +71,9 @@ Our goal is to answer three questions:
     2. Why would casual riders buy Cyclistic annual memberships?
     3. How can Cyclistic use digital media to influence casual riders to become members?
 
-Work in progress...
+##
+
+[Case Study 01]()
 
 ##
 
@@ -92,8 +94,10 @@ Our goal is to answer three questions:
     1. What are some trends in smart device usage?
     2. How could these trends apply to Bellabeat customers?
     3. How could these trends help influence Bellabeat marketing strategy?
+    
+##
 
-Work in progress...
+[Case Study 02]()
 
 ---
 
@@ -123,7 +127,10 @@ For this one we have Five questions will guide your case study:
   <h3 align="center">Personal Case Study:</h3>
 </div>
 
-Work in progress...
+##
+
+[Case Study 03]()
+
 
 ---
 
