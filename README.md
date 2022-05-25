@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone">
-    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Grow%20with%20Google.jpg" alt="DataViz" width="" height="">
+    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Grow%20with%20Google.jpg" alt="DataViz" width="640" height="360">
   </a>
 </p>  
   <h2 align="center">Google Data Analytics: Capstone Project</h2>
