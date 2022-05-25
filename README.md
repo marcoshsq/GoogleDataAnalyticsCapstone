@@ -55,10 +55,10 @@ So, out of personal interest, and because I believe it will be of great value to
 
 <p align="center">
   <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone">
-    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Bikes.png" alt="bike" width="250" height="250">
+    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Bikes.png" alt="bike" width="150" height="150">
   </a>
 </p>  
-  <h3>Case Study 01: How does a bike-share navigate speedy success?</h3>
+  <h3 align="center">Case Study 01: How does a bike-share navigate speedy success?</h3>
 </div>
 
 ***Scenario:***
@@ -77,10 +77,10 @@ Work in progress...
 
 <p align="center">
   <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone">
-    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/bellabeat.png" alt="DataViz" width="250" height="250">
+    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/bellabeat.png" alt="DataViz" width="150" height="150">
   </a>
 </p>  
-  <h3>Case Study 02: How can a wellness company play it smart?</h3>
+  <h3 align="center">Case Study 02: How can a wellness company play it smart?</h3>
 </div>
 
 ***Scenario***
@@ -117,10 +117,10 @@ For this one we have Five questions will guide your case study:
 
 <p align="center">
   <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone">
-    <img src="" alt="meme" width="" height="">
+    <img src="" alt="meme" width="150" height="150">
   </a>
 </p>  
-  <h3>Personal Case Study:</h3>
+  <h3 align="center">Personal Case Study:</h3>
 </div>
 
 Work in progress...
