@@ -87,11 +87,31 @@ Work in progress...
 
 <h2>Track 02 details:</h2>
 
-***""***
+***"Choose your own adventure: ***
 
-<h3>Personal Case Study: Work in progress...</h3>
+***The second track involves finding a public dataset that focuses on something that interests you. You could choose any topic about which you want to analyze data -- public bike use in your neighborhood, local wildlife migration, video game console sales, or anything else you are passionate about. You can follow the steps in the case study packet to guide you through this process. The case study packet provides public dataset recommendations, example business tasks, and steps to complete your analysis. This track is the most flexible, but that flexibility means that this track can be more challenging. You will have to use everything that you have learned so far to help you to complete this case study. ***
+
+***If this track interests you, explore the case study packet to learn more details, find the public dataset that you want to use, and complete your analysis. Then, you will be ready to upload and share your completed case study." ***
+
+***Scenario***
+
+You are a junior data analyst working for a business intelligence consultant. You have been at your job for six months, and your boss feels you are ready for more responsibility. He has asked you to lead a project for a brand new client — this will involve everything from defining the business task all the way through presenting your data-driven recommendations. You will choose the topic, ask the right questions, identify a fresh dataset and ensure its integrity, conduct analysis, create compelling data visualizations, and prepare a presentation.
+
+For this one we have Five questions will guide your case study:
+
+    1. What type of company does your client represent, and what are they asking you to accomplish?
+    2. What are the key factors involved in the business task you are investigating?
+    3. What type of data will be appropriate for your analysis?
+    4. Where will you obtain that data?
+    5. Who is your audience, and what materials will help you present to them eectively?
+
+
+
+<h3>Personal Case Study:</h3>
 
 Work in progress...
+
+---
 
 <h2>Final considerations:</h2>
 
