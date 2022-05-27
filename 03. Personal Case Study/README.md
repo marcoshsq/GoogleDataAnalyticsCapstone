@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone">
-    <img src="" alt="meme" width="150" height="150">
+    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/books-icon-512.png" alt="books" width="150" height="150">
   </a>
 </p>  
   <h3 align="center">Personal Case Study:</h3>

@@ -82,6 +82,13 @@ So, out of personal interest, and because I believe it will be of great value to
 
 <h2>Final considerations:</h2>
 
+<p align="center">
+  <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone">
+    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Google%20Data%20Analytics_page-0001.jpg" alt="DataViz" width="" height="">
+  </a>
+</p>  
+</div>
+
 <div align="right">
   
   [to the top](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#google-data-analytics-capstone-project)
