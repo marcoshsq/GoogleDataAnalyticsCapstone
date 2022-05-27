@@ -31,10 +31,9 @@ The objective of this capstone project is to apply the knowledge developed durin
 
 For this, we're offered two tracks:
 
-| Track 01 | Track 02 |
-| :-- | :-- |
-| Working with existing questions and datasets. | Choosing your own questions and dataset |
-| In this path the goal is to demonstrate job skills for future interviews using a given dataset for analysis. | For this, we aim to create a more flexible portfolio piece about a personal interest that you have. |
+* Track 01: Working with existing questions and datasets.
+
+* Track 02: Choosing your own questions and dataset.
 
 It is not necessary to undertake any of the projects as there is no peer review to complete the course. However, it is highly recommended.
 
@@ -50,9 +49,9 @@ So, out of personal interest, and because I believe it will be of great value to
 
 ##
 
-* [Case Study 01]()
+### [Case Study 01](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/tree/main/01.%20Case%20Study%2001)
 
-* [Case Study 02]()
+### [Case Study 02](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/tree/main/02.%20Case%20Study%2002)
 
 <div align="right">
   
@@ -70,7 +69,7 @@ So, out of personal interest, and because I believe it will be of great value to
 
 ##
 
-[Case Study 03]()
+### [Personal Case Study](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/tree/main/03.%20Personal%20Case%20Study)
 
 <div align="right">
   
