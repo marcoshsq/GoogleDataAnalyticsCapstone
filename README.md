@@ -53,57 +53,9 @@ So, out of personal interest, and because I believe it will be of great value to
 
 ##
 
-<p align="center">
-  <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone">
-    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Bikes.png" alt="bike" width="150" height="150">
-  </a>
-</p>  
-  <h3 align="center">Case Study 01: How does a bike-share navigate speedy success?</h3>
-</div>
+* [Case Study 01]()
 
-***Scenario:***
-
-You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
-
-Our goal is to answer three questions:
-
-    1. How do annual members and casual riders use Cyclistic bikes differently?
-    2. Why would casual riders buy Cyclistic annual memberships?
-    3. How can Cyclistic use digital media to influence casual riders to become members?
-
-##
-
-[Case Study 01]()
-
-<div align="right">
-  
-  [to the top](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#google-data-analytics-capstone-project)
-  
-</div>
-
-##
-
-<p align="center">
-  <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone">
-    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/bellabeat.png" alt="DataViz" width="150" height="150">
-  </a>
-</p>  
-  <h3 align="center">Case Study 02: How can a wellness company play it smart?</h3>
-</div>
-
-***Scenario***
-
-You are a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. You have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights you discover will then help guide marketing strategy for the company. You will present your analysis to the Bellabeat executive team along with your high-level recommendations for Bellabeat’s marketing strategy. 
-
-Our goal is to answer three questions:
-
-    1. What are some trends in smart device usage?
-    2. How could these trends apply to Bellabeat customers?
-    3. How could these trends help influence Bellabeat marketing strategy?
-    
-##
-
-[Case Study 02]()
+* [Case Study 02]()
 
 <div align="right">
   
@@ -118,26 +70,6 @@ Our goal is to answer three questions:
 ***"The second track involves finding a public dataset that focuses on something that interests you. You could choose any topic about which you want to analyze data -- public bike use in your neighborhood, local wildlife migration, video game console sales, or anything else you are passionate about. You can follow the steps in the case study packet to guide you through this process. The case study packet provides public dataset recommendations, example business tasks, and steps to complete your analysis. This track is the most flexible, but that flexibility means that this track can be more challenging. You will have to use everything that you have learned so far to help you to complete this case study.***
 
 ***"If this track interests you, explore the case study packet to learn more details, find the public dataset that you want to use, and complete your analysis. Then, you will be ready to upload and share your completed case study."***
-
-***Scenario***
-
-You are a junior data analyst working for a business intelligence consultant. You have been at your job for six months, and your boss feels you are ready for more responsibility. He has asked you to lead a project for a brand new client — this will involve everything from defining the business task all the way through presenting your data-driven recommendations. You will choose the topic, ask the right questions, identify a fresh dataset and ensure its integrity, conduct analysis, create compelling data visualizations, and prepare a presentation.
-
-For this one we have Five questions will guide your case study:
-
-    1. What type of company does your client represent, and what are they asking you to accomplish?
-    2. What are the key factors involved in the business task you are investigating?
-    3. What type of data will be appropriate for your analysis?
-    4. Where will you obtain that data?
-    5. Who is your audience, and what materials will help you present to them efectively?
-
-<p align="center">
-  <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone">
-    <img src="" alt="meme" width="150" height="150">
-  </a>
-</p>  
-  <h3 align="center">Personal Case Study:</h3>
-</div>
 
 ##
 
