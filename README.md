@@ -8,11 +8,11 @@
 
 <h2>Table of Contents:</h2>
 
-- [About](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#about)
-- [How this repository is structured]()
-- [Track 01](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#track-01-details)
-- [Track 02](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#track-02-details)
-- [Final Considerations](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#final-considerations)
+- [About](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/tree/main#about)
+- [How this repository is structured](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/tree/main#how-this-repository-is-structured)
+- [Track 01](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/tree/main#track-01-details)
+- [Track 02](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/tree/main#track-02-details)
+- [Final Considerations](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/tree/main#final-considerations)
 
 <h2>About:</h2>
 
@@ -44,6 +44,12 @@ So, out of personal interest, and because I believe it will be of great value to
 
 <h2>How this repository is structured:</h2>
 
+Below we have two sections, one referring to Track 01 and the other referring to Track 02, where in the first we're offered a guided project with a set of data, problems, and results to be obtained already defined.
+
+In the second, we have a slightly freer approach, where it is up to us to define the project we'll work on.
+
+In each track I placed a link where the project was available, with the Jupyter notebooks in separate folders with each stage of the analysis process, and at the end a complete report documenting the results obtained.
+
 ---
 
 <h2>Track 01 details:</h2>
@@ -51,6 +57,8 @@ So, out of personal interest, and because I believe it will be of great value to
 "The first track involves a case study similar to what you might be asked for in a job interview. You will be given a business task, dataset, and list of specific deliverables that you must present to stakeholders. The first track will help you to create a case study that you could include in your portfolio to demonstrate job skills for future interviews. You can choose from between two cases. Once you decide which case study packet to use, you will read the details, complete the analysis, and create your finished case study." 
 
 "If this track interests you, explore the case study options and decide which one you want to perform. The case study packets available for download have everything that you need to complete your case study. Then, you will be ready to upload and share your case study with potential employers."
+
+For details and specifics of the project, click on the link below
 
 ##
 
@@ -71,6 +79,8 @@ So, out of personal interest, and because I believe it will be of great value to
 "The second track involves finding a public dataset that focuses on something that interests you. You could choose any topic about which you want to analyze data -- public bike use in your neighborhood, local wildlife migration, video game console sales, or anything else you are passionate about. You can follow the steps in the case study packet to guide you through this process. The case study packet provides public dataset recommendations, example business tasks, and steps to complete your analysis. This track is the most flexible, but that flexibility means that this track can be more challenging. You will have to use everything that you have learned so far to help you to complete this case study.
 
 "If this track interests you, explore the case study packet to learn more details, find the public dataset that you want to use, and complete your analysis. Then, you will be ready to upload and share your completed case study."
+
+For details and specifics of the project, click on the link below
 
 ##
 
