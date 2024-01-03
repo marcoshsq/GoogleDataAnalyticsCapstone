@@ -117,4 +117,4 @@ But in the end, that's what it's about. I thank Coursera and Google for allowing
   
 </div>
 
-### (づ｡◕‿‿◕｡)づ (ﾉ◕ヮ◕)ﾉ ٩(｡•́‿•̀｡)۶	ヽ(^◇^*)/
+<h2 align="center">(づ｡◕‿‿◕｡)づ (ﾉ◕ヮ◕)ﾉ ٩(｡•́‿•̀｡)۶	ヽ(^◇^*)/</h2>
