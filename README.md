@@ -9,6 +9,7 @@
 <h2>Table of Contents:</h2>
 
 - [About](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#about)
+- [How this repository is structured]()
 - [Track 01](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#track-01-details)
 - [Track 02](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#track-02-details)
 - [Final Considerations](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#final-considerations)
@@ -38,6 +39,10 @@ For this, we're offered two tracks:
 It is not necessary to undertake any of the projects as there is no peer review to complete the course. However, it is highly recommended.
 
 So, out of personal interest, and because I believe it will be of great value to my professional development, I will carry out the two projects offered in track 01, and also a personal project for track 02.
+
+---
+
+<h2>How this repository is structured:</h2>
 
 ---
 
