@@ -96,6 +96,14 @@ For details and specifics of the project, click on the link below
 
 <h2>Final considerations:</h2>
 
+I had carried out this project for a long time, but I wasn't very confident with the results. Impostor syndrome didn't allow me to publish it...
+
+But anyway, after a period of more in-depth study, I finally managed to deliver something a little more presentable, and well... better late than never.
+
+I think this project is fundamental for the real learning of the content taught in the course, I believe it is more important than all seven courses together.
+
+But in the end, that's what it's about. I thank Coursera and Google for allowing me to study such rich and high-quality content, and they are two entities that are having a very positive impact on my professional development!
+
 <p align="center">
   <a href="https://www.credly.com/badges/c28735ec-e7cb-4a5c-ba6e-2e7aaa9ee408">
     <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Google%20Data%20Analytics_page-0001.jpg" alt="DataViz" width="" height="">
@@ -108,3 +116,5 @@ For details and specifics of the project, click on the link below
   [to the top](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#google-data-analytics-capstone-project)
   
 </div>
+
+### (づ｡◕‿‿◕｡)づ (ﾉ◕ヮ◕)ﾉ ٩(｡•́‿•̀｡)۶	ヽ(^◇^*)/
