@@ -1,19 +1,11 @@
-<p align="center">
-  <a href="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone">
-    <img src="https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/blob/main/Template/Bikes.png" alt="bike" width="150" height="150">
-  </a>
-</p>  
-  <h3 align="center">Case Study 01: How does a bike-share navigate speedy success?</h3>
-</div>
+# Declaração da Tarefa
 
-***Scenario:***
+## Objetivo
+O objetivo desta análise de dados é entender como os usuários casuais e os membros anuais utilizam as bicicletas da Cyclistic de maneira diferente. A partir dessas insights, pretendemos desenvolver uma estratégia de marketing para converter os usuários casuais em membros anuais.
 
-You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
+## Perguntas-chave
+- Como o comportamento dos usuários casuais difere dos membros anuais?
+- Quais são os principais fatores que levam os usuários casuais a adquirirem uma assinatura anual?
+- Como as estratégias de marketing digital podem influenciar a conversão de usuários casuais em membros anuais?
 
-Our goal is to answer three questions:
-
-    1. How do annual members and casual riders use Cyclistic bikes differently?
-    2. Why would casual riders buy Cyclistic annual memberships?
-    3. How can Cyclistic use digital media to influence casual riders to become members?
-
----
+...
