@@ -10,6 +10,7 @@ This section outlines the steps taken to prepare and clean the Cyclistic trip da
 ## 2. Folder Structure
 - Created two folders: `source_data` and `clean_data`.
 - Extracted contents of downloaded files into the `source_data` folder.
+- Due to the size of the files, it was not possible to include them in this repository
 
 ## 3. Data Cleaning
 - Opened each CSV file to inspect and clean the data.
@@ -18,7 +19,6 @@ This section outlines the steps taken to prepare and clean the Cyclistic trip da
 - Explored and addressed outliers in `rideable_type` and `member_casual` columns.
 - Converted the started_at and ended_at column to datetime format.
 - Replace missing or invalid values (NaN) in latitude and longitude columns using the Pandas replace method.
-- I aggregated all the data into one (stupidly big) file.
 
 ## 4. Exploration and Additional Columns
 - Created two new columns: `day_of_week` to identify the day of the week for each ride and `ride_length` to calculate the duration of each ride.
