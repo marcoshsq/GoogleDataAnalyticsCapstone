@@ -8,21 +8,21 @@
 ### 2. How is the data organized?
 - The data is organized in a tabular format within a spreadsheet.
 
-| Column Name           | Description                                      |
-|-----------------------|--------------------------------------------------|
-| ride_id               | Identifies a unique ride                         |
-| rideable_type         | Type of bike used (e.g., electric_bike)          |
-| started_at            | Start time of the ride                           |
-| ended_at              | End time of the ride                             |
-| start_station_name    | Name of the starting station                     |
-| start_station_id      | ID of the starting station                       |
-| end_station_name      | Name of the ending station                       |
-| end_station_id        | ID of the ending station                         |
-| start_lat             | Latitude of the starting station                 |
-| start_lng             | Longitude of the starting station                |
-| end_lat               | Latitude of the ending station                   |
-| end_lng               | Longitude of the ending station                  |
-| member_casual         | Indicates if the user is a member or casual      |
+| Column Name    | Description                                    |
+| --------------- | ---------------------------------------------- |
+| trip_id         | Identifier for a unique trip                    |
+| start_time      | Start time of the trip                          |
+| end_time        | End time of the trip                            |
+| bikeid          | Identifier for the bike used in the trip        |
+| tripduration    | Duration of the trip (in some unit, e.g., minutes) |
+| from_station_id | ID of the starting station                      |
+| from_station_name | Name of the starting station                   |
+| to_station_id   | ID of the ending station                        |
+| to_station_name | Name of the ending station                      |
+| usertype        | User type (e.g., member, casual)                |
+| gender          | Gender of the user                              |
+| birthyear       | Birth year of the user                          |
+
 
 ### 3. Are there issues with bias or credibility in this data? Does your data ROCCC?
 - There doesn't appear to be evident bias, but further analysis will be needed to assess credibility.
