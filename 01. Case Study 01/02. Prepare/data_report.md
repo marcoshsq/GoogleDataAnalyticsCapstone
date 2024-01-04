@@ -3,7 +3,7 @@
 ## Guiding Questions:
 
 ### 1. Where is your data located?
-- The data is located in the "Cyclistic_Trip_Data_2023" folder within the project repository in comma-separated values files.
+- The data is located in the "[Cyclistic_Trip_Data_2023](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/tree/main/01.%20Case%20Study%2001/Cyclistic_Trip_Data_2023)" folder within the project repository in comma-separated values files.
 
 ### 2. How is the data organized?
 - The data is organized in a tabular format within a spreadsheet.
@@ -26,11 +26,19 @@
 
 ### 3. Are there issues with bias or credibility in this data? Does your data ROCCC?
 - There doesn't appear to be evident bias, but further analysis will be needed to assess credibility.
-- ROCCC: Considering Relevance, Originality, Comprehensiveness, Currency, and Context.
+- ROCCC: Considering Relevance, Originality, Comprehensiveness, Currency, and Context:
+- **Relevance:** The data includes all necessary information for analyzing how annual members and casual riders use Cyclistic bikes differently. It appears solid and clean, enhancing its relevance to the business questions.
+- **Originality:** While sourced from a public dataset and part of a course project, for this analysis, treating it as original is reasonable, considering its relevance to the specific case.
+- **Comprehensiveness:** The data covers all relevant aspects, including ride details, user types, and station information, making it comprehensive for the analysis.
+- **Currency:** Being 2023 data ensures that the insights derived are reflective of current bike usage patterns.
+- **Context:** While confirmation of the broader context of data collection is challenging, the provided information outlines the availability, licensing, and privacy constraints. Transparency about this limitation is crucial for the interpretation of results.
+
+By evaluating the data against the ROCCC criteria, it appears to be a suitable and relevant dataset for addressing the marketing team's questions, with necessary considerations for transparency in interpretation.
+
 
 ### 4. How are you addressing licensing, privacy, security, and accessibility?
 - The data is provided by Motivate International Inc. under a specific license.
-- Privacy: No personally identifiable information is used.
+- Privacy: No personally identifiable information is used; connecting pass purchases to credit card numbers is prohibited.
 - Security: Data is stored locally and adheres to project security measures.
 - Accessibility: Ensuring data is accessible only to authorized project members.
 
@@ -42,7 +50,13 @@
 - The data provides details on bike rides, user types, and ride characteristics, allowing us to analyze how annual members and casual riders use Cyclistic bikes differently.
 
 ### 7. Are there any problems with the data?
-- No major issues detected during the initial review. Any potential problems will be addressed during the analysis phase.
+- No major issues were detected during the initial review. Any potential problems will be addressed during the analysis phase.
+
+### Additional Information:
+- **Data Source:** Cyclistic’s historical trip data made available by Motivate International Inc.
+- **License:** The data is provided under a specific license by Motivate International Inc.
+- **Data Privacy:** Due to privacy issues, connecting pass purchases to credit card numbers or identifying personally identifiable information is prohibited.
+- **Scope:** The data allows analysis of how different customer types are using Cyclistic bikes.
 
 ## Key Tasks:
 
@@ -63,4 +77,3 @@
 
 ### A description of all data sources used
 - Detailed documentation in the project repository, specifying the location, organization, and characteristics of the Cyclistic trip data for the year 2023.
-
