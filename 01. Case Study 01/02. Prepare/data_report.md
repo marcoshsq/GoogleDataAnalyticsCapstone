@@ -3,7 +3,7 @@
 ## Guiding Questions:
 
 ### 1. Where is your data located?
-- The data is located in the "[Cyclistic_Trip_Data_2023](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/tree/main/01.%20Case%20Study%2001/Cyclistic_Trip_Data_2023)" folder within the project repository in comma-separated values files.
+- The data is located in the "[divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)" folder within the project repository in comma-separated values files.
 
 ### 2. How is the data organized?
 - The data is organized in a tabular format within a spreadsheet.
