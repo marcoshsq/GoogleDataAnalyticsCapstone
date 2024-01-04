@@ -4,7 +4,7 @@
 This section outlines the steps taken to prepare and clean the Cyclistic trip data for analysis.
 
 ## 1. Data Download
-- Downloaded relevant files covering the period from 01/2023 to 09/2023 from [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html).
+- Downloaded relevant files covering the period from 01/2019 to 12/2019 from [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html).
 - All files were in CSV format, and the download included compacted folders.
 
 ## 2. Folder Structure
