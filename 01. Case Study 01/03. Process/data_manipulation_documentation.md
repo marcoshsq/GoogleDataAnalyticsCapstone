@@ -18,7 +18,6 @@ This document describes the steps taken to prepare and clean the data for analys
 - I calculated the difference between 'end_time' and 'start_time' to create the 'ride_length' column in hours.
 - I extracted the day of the week from the 'start_time' column and created the 'day_of_week' column, where 1 represents Sunday, 2 Monday, etc.
 - I renamed the columns again, this time to match the new names specified.
-- I saved the DataFrames as CSV files to clean them and made them available in this repository.
-  
+    
 ### Observation
 The raw dataset could not be uploaded directly to the GitHub repository due to its size. See the original website [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html) to access them.
