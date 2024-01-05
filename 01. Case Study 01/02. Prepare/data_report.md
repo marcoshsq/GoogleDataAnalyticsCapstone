@@ -1,6 +1,7 @@
-# Data report
+$# Data report
 
-## Guiding Questions:
+This document describes the steps taken to store the dataset correctly and understand whether the available data is relevant for analysis.
+##$ Guiding Questions:
 
 ### 1. Where is your data located?
 - The data is located in the "[divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)" site available for download, in comma-separated values files.
