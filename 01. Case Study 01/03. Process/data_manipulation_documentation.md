@@ -1,36 +1,24 @@
-# Data Preparation and Cleaning
+## Data Preparation and Cleaning
 
-## Overview
-This section outlines the steps taken to prepare and clean the Cyclistic trip data for analysis.
+### Data cleansing report
 
-## 1. Data Download
-- Downloaded relevant files covering the period from 01/2019 to 12/2019 from [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html).
-- All files were in CSV format, and the download included compacted folders.
+This document describes the steps taken to prepare and clean the data for analysis.
 
-## 2. Folder Structure
-- Created two folders: `source_data` and `clean_data`.
-- Extracted contents of downloaded files into the `source_data` folder.
-- Due to the size of the files, it was not possible to include them in this repository
+### 1. Data download
+- The downloaded data refers to the period from 01/2019 to 12/2019.
+- The raw data can be found at [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html).
+- All files were in CSV format in compressed folders.
 
-## 3. Data Cleaning
-- Opened each CSV file to inspect and clean the data.
-- Checked for duplicate entries.
-- Filled missing values in columns `start_station_name`, `start_station_id`, `end_station_name`, `end_station_id` with "not specified" for consistency.
-- Explored and addressed outliers in `rideable_type` and `member_casual` columns.
-- Converted the started_at and ended_at column to datetime format.
-- Replace missing or invalid values (NaN) in latitude and longitude columns using the Pandas replace method.
-
-## 4. Exploration and Additional Columns
-- Created two new columns: `day_of_week` to identify the day of the week for each ride and `ride_length` to calculate the duration of each ride.
-- Conducted a basic exploration, checking for patterns and outliers.
+### 2. Data cleaning process
+- I renamed the DataFrame columns to make the names more friendly and coherent.
+- Searched and replaced null values in different columns.
+- I filled the null values in the 'gender' column with the string 'unknown'.
+- I filled in the null values in the 'birthyear' column with the average of the non-null values.
+- Converted the 'start_time' and 'end_time' columns to date and time format.
+- I calculated the difference between 'end_time' and 'start_time' to create the 'ride_length' column in hours.
+- I extracted the day of the week from the 'start_time' column and created the 'day_of_week' column, where 1 represents Sunday, 2 Monday, etc.
+- I renamed the columns again, this time to match the new names specified.
+- I saved the DataFrames as CSV files to clean them and made them available in this repository.
   
-## 5. File Format
-- Saved cleaned files as Excel workbooks (.xlsx).
-
-## 6. Repository Upload
-- Due to the large file sizes, the cleaned data files were uploaded to Kaggle instead of GitHub.
-
-### Note
-The dataset may not be uploaded to the GitHub repository directly due to its size. Refer to Kaggle for the cleaned [data files](https://www.kaggle.com/datasets/marcoshsq/divvy-tripdata/data).
-
-For further details and technical insights into the data preparation and cleaning process, please refer to the specific Jupyter notebook or script used for the analysis.
+### Observation
+The raw dataset could not be uploaded directly to the GitHub repository due to its size. See the original website [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html) to access them.
