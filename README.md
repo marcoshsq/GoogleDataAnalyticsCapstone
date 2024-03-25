@@ -11,7 +11,6 @@
 - [About](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/tree/main#about)
 - [How this repository is structured](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/tree/main#how-this-repository-is-structured)
 - [Track 01](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/tree/main#track-01-details)
-- [Track 02](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/tree/main#track-02-details)
 - [Final Considerations](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/tree/main#final-considerations)
 
 <h2>About:</h2>
@@ -38,15 +37,13 @@ For this, we're offered two tracks:
 
 It is not necessary to undertake any of the projects as there is no peer review to complete the course. However, it is highly recommended.
 
-So, out of personal interest, and because I believe it will be of great value to my professional development, I will carry out the two projects offered in track 01, and also a personal project for track 02.
+So, out of personal interest, and because I believe it will be of great value to my professional development, I will carry out the two projects offered in track 01.
 
 ---
 
 <h2>How this repository is structured:</h2>
 
-Below we have two sections, one referring to Track 01 and the other referring to Track 02, where in the first we're offered a guided project with a set of data, problems, and results to be obtained already defined.
-
-In the second, we have a slightly freer approach, where it is up to us to define the project we'll work on.
+Below we have two sections, one referring to case study 01 and the other referring to case study 02, where in the first a guided project related to user behavior data in a bike sharing application is offered, in the second we have access to data of a health app.
 
 In each track I placed a link where the project was available, with the Jupyter notebooks in separate folders with each stage of the analysis process, and at the end a complete report documenting the results obtained.
 
@@ -90,26 +87,6 @@ Our goal is to answer three questions:
 
 
 ### [Case Study 02](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/tree/main/02.%20Case%20Study%2002)
-
-<div align="right">
-  
-  [to the top](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone#google-data-analytics-capstone-project)
-  
-</div>
-
----
-
-<h2>Track 02 details:</h2>
-
-"The second track involves finding a public dataset that focuses on something that interests you. You could choose any topic about which you want to analyze data -- public bike use in your neighborhood, local wildlife migration, video game console sales, or anything else you are passionate about. You can follow the steps in the case study packet to guide you through this process. The case study packet provides public dataset recommendations, example business tasks, and steps to complete your analysis. This track is the most flexible, but that flexibility means that this track can be more challenging. You will have to use everything that you have learned so far to help you to complete this case study.
-
-"If this track interests you, explore the case study packet to learn more details, find the public dataset that you want to use, and complete your analysis. Then, you will be ready to upload and share your completed case study."
-
-For details and specifics of the project, click on the link below
-
-##
-
-### [Personal Case Study](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone/tree/main/03.%20Personal%20Case%20Study)
 
 <div align="right">
   
